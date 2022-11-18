@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/christmas-card-test/static/css/main.59894d91.css",
-    "main.js": "/christmas-card-test/static/js/main.1d703a0b.js",
+    "main.js": "/christmas-card-test/static/js/main.141b8b52.js",
     "index.html": "/christmas-card-test/index.html",
     "main.59894d91.css.map": "/christmas-card-test/static/css/main.59894d91.css.map",
-    "main.1d703a0b.js.map": "/christmas-card-test/static/js/main.1d703a0b.js.map"
+    "main.141b8b52.js.map": "/christmas-card-test/static/js/main.141b8b52.js.map"
   },
   "entrypoints": [
     "static/css/main.59894d91.css",
-    "static/js/main.1d703a0b.js"
+    "static/js/main.141b8b52.js"
   ]
 }
